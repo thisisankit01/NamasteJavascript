@@ -20,3 +20,11 @@ function x() {
   }
   console.log("Namaste Javascript");
 }
+x();
+
+//output
+//1
+//2
+//3
+//4
+//5
